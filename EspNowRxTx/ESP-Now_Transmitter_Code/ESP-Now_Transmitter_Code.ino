@@ -8,7 +8,7 @@
 
 
 // REPLACE WITH YOUR RECEIVER MAC Address
-uint8_t receiverMacAddress[] = {0x08,0xD1,0xF9,0xE1,0x0C,0xE4};  //08:D1:F9:E1:0C:E4
+uint8_t receiverMacAddress[] = {0x08,0xD1,0xF9,0xE1,0x0C,0xE4};  //change mac adress 
 
 typedef struct PacketData
 {
